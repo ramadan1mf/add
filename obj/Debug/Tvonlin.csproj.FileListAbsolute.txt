@@ -1,0 +1,14 @@
+E:\FILL E\Tvonlin\Tvonlin\bin\Debug\Tvonlin.exe.config
+E:\FILL E\Tvonlin\Tvonlin\bin\Debug\Tvonlin.exe
+E:\FILL E\Tvonlin\Tvonlin\bin\Debug\Tvonlin.pdb
+E:\FILL E\Tvonlin\Tvonlin\bin\Debug\Interop.AXVLC.dll
+E:\FILL E\Tvonlin\Tvonlin\bin\Debug\AxInterop.AXVLC.dll
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.csprojResolveAssemblyReference.cache
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Interop.AXVLC.dll
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\AxInterop.AXVLC.dll
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.csproj.ResolveComReference.cache
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.Form1.resources
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.Properties.Resources.resources
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.csproj.GenerateResource.Cache
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.exe
+E:\FILL E\Tvonlin\Tvonlin\obj\Debug\Tvonlin.pdb
